@@ -1,0 +1,25 @@
+h1 {
+    text-align: center;
+    background-color: green;
+}
+h3 {
+	text-align: center;
+	border: 2px solid #F00;
+
+}
+ul {
+	color: blue;
+}
+b{
+	color: green;
+}
+i{
+	color: yellow;
+}
+
+s{
+	color: aqua;
+}
+u{
+	color: purple; 
+}
