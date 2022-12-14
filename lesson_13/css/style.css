@@ -1,0 +1,91 @@
+body {
+	text-align:center;
+    font-family: Arial, sans-serif;
+    line-height: 1.5;
+}
+
+.big_form {
+    background-color: rgb(235, 244, 244);
+    position: absolute;
+    left: 100px;
+    top: 100px;
+    width: 456px;
+    height: 456px;
+    z-index: 1;
+
+}
+
+.form {
+    position: absolute;
+    width: 256px;
+    height: 293px;
+    background-color: #ffffff;
+    text-align: center;
+    margin: 81px 90px 30px 99px;
+}
+
+
+.form-header {
+    width: 119px;
+    height: 16px;
+    background-color: #01b3b3;
+    text-align: center;
+    font-size: 9.4px;
+    text-transform: uppercase;
+    color: #ffffff;
+    font-weight: bold;
+    margin: -4px 25px 0px 25px;
+    padding-top: 3px;
+}
+
+.email {
+    font-size: 9.5px;
+    font-weight: 600;
+    margin: 26px 173px 5px 0;
+}
+
+ .f_password {
+    font-size: 9.5px;
+    font-weight: 600;
+    margin: 11px 0 7px -115px;
+}
+ 
+ 
+.password {
+    
+    
+    font-size: 9.5px;
+    font-weight: 600;
+    margin: 11px -1px 6px -114px;
+}
+
+
+
+.form input {
+    width: 200px;
+    height: 22px;
+    background-color: #ebf4f4;
+    border: none;
+    padding: 3px 0px 1px 11px;
+    font-size: 9.5px;
+    font-weight: 300;
+    margin: 1px 1px 1px 2px;
+}
+
+.form button {
+    height: 37px;
+    width: 209px;
+    text-align: center;
+    background-color: #01b3b3;
+    font-size: 13px;
+    color: #ffffff;
+    font-weight: 600;
+    text-transform: uppercase;
+    margin-top: 26px;
+    margin-left: 1px;
+    border: none;
+    border: 2px solid #0aa2a2;
+    border-radius: 5px;
+    padding-left: 6px;
+    padding-top: 0px;
+}
